@@ -11,8 +11,8 @@ import (
 
 	"github.com/alecthomas/kingpin"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/octago/sflags"
-	"github.com/octago/sflags/gen/gkingpin"
+	"github.com/bldrdash/sflags"
+	"github.com/bldrdash/sflags/gen/gkingpin"
 )
 
 type httpConfig struct {
