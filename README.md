@@ -1,5 +1,7 @@
 # Flags based on structures. [![GoDoc](https://godoc.org/github.com/octago/sflags?status.svg)](http://godoc.org/github.com/octago/sflags) [![Build Status](https://travis-ci.org/octago/sflags.svg?branch=master)](https://travis-ci.org/octago/sflags)  [![codecov](https://codecov.io/gh/octago/sflags/branch/master/graph/badge.svg)](https://codecov.io/gh/octago/sflags)  [![Go Report Card](https://goreportcard.com/badge/github.com/octago/sflags)](https://goreportcard.com/report/github.com/octago/sflags)
 
+> Forked from [octago/sflags](https://github.com/octago/sflags) in order to resolve go import [issue 25](https://github.com/octago/sflags/issues/25)
+
 The sflags package uses structs, reflection and struct field tags
 to allow you specify command line options. It supports [different types](#supported-types-in-structures) and [features](#features).
 
